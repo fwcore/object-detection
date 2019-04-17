@@ -4,7 +4,7 @@ paper list and slides for object-detection with deep learning
 
 ## Slides
 
-* [You only look once -- path to design a detector]()
+* 2019/04/17 | __You only look once -- path to design a detector__ | [pptx](https://github.com/fwcore/object-detection/blob/master/YOLO.pptx) | [pdf](https://github.com/fwcore/object-detection/blob/master/YOLO.pdf)
 
 ## Paper lists
 
