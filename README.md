@@ -6,6 +6,8 @@ paper list and slides for object-detection with deep learning
 
 * 2019/04/17 | __You only look once -- path to design a detector__ | [pptx](https://github.com/fwcore/object-detection/blob/master/YOLO.pptx) | [pdf](https://github.com/fwcore/object-detection/blob/master/YOLO.pdf)
 
+* 2019/05/03 | __SSD: single shot detector__ | [pptx](https://github.com/fwcore/object-detection/blob/master/SSD.pptx) | [pdf](https://github.com/fwcore/object-detection/blob/master/SSD.pdf)
+
 ## Paper lists
 
 * You Only Look Once: Unified, Real-Time Object Detection | [arXiv:1506.02640](arXiv:1506.02640)
