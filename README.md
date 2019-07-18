@@ -8,6 +8,8 @@ paper list and slides for object-detection with deep learning
 
 * 2019/05/03 | __SSD: single shot detector__ | [pptx](https://github.com/fwcore/object-detection/blob/master/SSD.pptx) | [pdf](https://github.com/fwcore/object-detection/blob/master/SSD.pdf)
 
+* 2019/06/24 | __A morphable model for the synthesis of 3D faces__ | [pptx](https://github.com/fwcore/object-detection/blob/master/A%20morphable%20model%20for%20the%20synthesis%20of%203D%20faces.pptx) | [pdf](https://github.com/fwcore/object-detection/blob/master/A%20morphable%20model%20for%20the%20synthesis%20of%203D%20faces.pdf)
+
 ## Paper lists
 
 * You Only Look Once: Unified, Real-Time Object Detection | [arXiv:1506.02640](arXiv:1506.02640)
